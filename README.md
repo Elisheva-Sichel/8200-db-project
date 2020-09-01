@@ -1,3 +1,5 @@
 # 8200-db-project
-Search and auto-completion for sentences within given input text files.
-Manipulating the data with complex data-structures and algorithmic optimizations using Python and C++.
+Constructing a fully operational self-made database.
+Differing relational and non-relational functionalities within the same generic API and pre-written test cases using Python.
+Involving run-time and I/O bound optimizations.
+
